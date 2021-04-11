@@ -47,7 +47,7 @@ For recovering the tab:
 
     Same for the others
 
-#### 6 - Additional information: 
+### 6 - Additional information: 
 
 #### 6.1 - Difference between W_minus and W_plus configurations:
 
@@ -74,6 +74,6 @@ The selection is done in cuts.h for each mass bin.
 
 Two Examples: 
 
-0to400: https://github.com/fmanteca/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/production/2017/13TeV/AnomalousCouplings-SMP/WWTolnulnu_01j_aTGC_lep_WWmass_4f_NLO_FXFX_UL/WWTolnulnu_01j_aTGC_lep_WWmass-0to400_4f_NLO_FXFX_W_plus/WWTolnulnu_01j_aTGC_lep_WWmass-0to400_4f_NLO_FXFX_W_plus_cuts.f#L82-L87
+WWmass-0to400: https://github.com/fmanteca/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/production/2017/13TeV/AnomalousCouplings-SMP/WWTolnulnu_01j_aTGC_lep_WWmass_4f_NLO_FXFX_UL/WWTolnulnu_01j_aTGC_lep_WWmass-0to400_4f_NLO_FXFX_W_plus/WWTolnulnu_01j_aTGC_lep_WWmass-0to400_4f_NLO_FXFX_W_plus_cuts.f#L82-L87
 
-600to800: https://github.com/fmanteca/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/production/2017/13TeV/AnomalousCouplings-SMP/WWTolnulnu_01j_aTGC_lep_WWmass_4f_NLO_FXFX_UL/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus_cuts.f#L82-L92
+WWmass-600to800: https://github.com/fmanteca/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/production/2017/13TeV/AnomalousCouplings-SMP/WWTolnulnu_01j_aTGC_lep_WWmass_4f_NLO_FXFX_UL/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus_cuts.f#L82-L92
