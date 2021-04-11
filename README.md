@@ -47,26 +47,27 @@ For recovering the tab:
 
     Same for the others
 
-#### Additional information: 
+#### 6 - Additional information: 
 
-##### Difference between W_minus and W_plus configurations:
+#### 6.1 - Difference between W_minus and W_plus configurations:
 
 In W_minus prod_card.dat:
    
-   generate p p > ell+ vl w- $$ t t~ H QED=3 [QCD] @0
-   add process p p > ell+ vl w- j $$ t t~ H QED=3 [QCD] @1
+      generate p p > ell+ vl w- $$ t t~ H QED=3 [QCD] @0
+      add process p p > ell+ vl w- j $$ t t~ H QED=3 [QCD] @1
 
 Then the w- bsoon is decayed through the madspin.
 
-On the other hand, for for W_plus prod_card:
+Equivalently, for for W_plus prod_card:
 
       generate p p > ell- vl~ w+ $$ t t~ H QED=3 [QCD] @0
       add process p p > ell- vl~ w+ j $$ t t~ H QED=3 [QCD] @1
 
+And the w+ boson is decayed through the madspin.
 
 The reason why the split is performed is because the memory consumption for the both processes in the same job made impossible to run the gridpack on the machines under slc6.
 
-##### Difference between the mass bins:
+#### 6.2 - Difference between the mass bins:
 
 The WW mass distribution is split at gen level in order to ensure having enough generated events in the sensitive bins at analysis level (high WW mass regime). 
 The selection is done in cuts.h for each mass bin. 
