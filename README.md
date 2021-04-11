@@ -78,4 +78,4 @@ WWmass-0to400: https://github.com/fmanteca/genproductions/blob/master/bin/MadGra
 
 WWmass-600to800: https://github.com/fmanteca/genproductions/blob/master/bin/MadGraph5_aMCatNLO/cards/production/2017/13TeV/AnomalousCouplings-SMP/WWTolnulnu_01j_aTGC_lep_WWmass_4f_NLO_FXFX_UL/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus/WWTolnulnu_01j_aTGC_lep_WWmass-600to800_4f_NLO_FXFX_W_minus_cuts.f#L82-L92
 
-#### Added the Kirill's pull request https://github.com/cms-sw/genproductions/pull/2710, that allows reweighting in decays under v26x. 
+#### 6.3 - Added the Kirill's pull request https://github.com/cms-sw/genproductions/pull/2710, that allows reweighting in decays under v26x. 
